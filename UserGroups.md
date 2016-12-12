@@ -18,6 +18,7 @@
   * [Ohio](#ohio)
   * [Pennysylvania](#pennysylvania)
   * [Texas](#texas)
+  * [Virginia](#virginia)
 * [Virtual](#virtual)
 
 ## Norway
@@ -58,6 +59,9 @@
 
 ### Texas
 - [DFW](http://sp.ntpcug.org/PowerShell/default.aspx)
+
+### Virginia
+- [NoVaPSUG](http://www.meetup.com/NoVA-PowerShell-User-Group/) [![Twitter][Twitter Icon]](https://twitter.com/NoVaPSUG)
 
 ## Virtual
 - [Virtual PSUG](https://slack.poshcode.org) ![Virtual][Virtual Icon]
