@@ -8,7 +8,9 @@
 
 ## Contents
 * [Norway](#norway)
+  * [Oslo](#oslo)
 * [Romania](#romania)
+  * [Bucharest](#bucharest)
 * [USA](#usa)
   * [Arizona](#arizona)
   * [Georgia](#georgia)
